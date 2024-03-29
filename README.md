@@ -1,10 +1,10 @@
 # Game - 2048
 
-This landing page is the picture of clean design and functionality, created to provide users with a user-friendly interface for interacting with the product.
+This version of 2048 was developed using JavaScript, HTML, and CSS (SASS) to demonstrate the implementation of this game in pure JS.
 
 # DEMO
 
-For demo of this project you can visit [DEMO link]()
+For demo of this project you can visit [DEMO link](https://vsainiuk.github.io/game-2048/)
 
 # Technologies used
 
@@ -15,8 +15,8 @@ For demo of this project you can visit [DEMO link]()
 
 Clone this repository, install dependencies, and launch this project.
 
-`git clone `
-`cd `
+`git clone https://github.com/vSainiuk/game-2048.git`
+`cd game-2048`
 `npm install`
 `npm start`
 
