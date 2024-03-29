@@ -15,10 +15,10 @@ For demo of this project you can visit [DEMO link](https://vsainiuk.github.io/ga
 
 Clone this repository, install dependencies, and launch this project.
 
-`git clone https://github.com/vSainiuk/game-2048.git`
-`cd game-2048`
-`npm install`
-`npm start`
+- `git clone https://github.com/vSainiuk/game-2048.git`
+- `cd game-2048`
+- `npm install`
+- `npm start`
 
 # Contact
 
